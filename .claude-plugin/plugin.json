@@ -1,0 +1,10 @@
+{
+  "name": "game-companion",
+  "version": "0.1.0",
+  "description": "Turn your coding agent into a friend who plays single-player games with you: live game state through a mod, answers from the game's own data, replies shown inside the game. 让你的 agent 变成陪你玩游戏的朋友。",
+  "author": { "name": "zifeng" },
+  "homepage": "https://github.com/Wonderfon/game-companion",
+  "repository": "https://github.com/Wonderfon/game-companion",
+  "license": "MIT",
+  "keywords": ["game", "companion", "gaming", "mod", "ue4ss", "wandering-sword", "逸剑风云决"]
+}

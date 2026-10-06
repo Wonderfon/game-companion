@@ -1,0 +1,12 @@
+{
+  "name": "game-companion",
+  "owner": { "name": "zifeng" },
+  "description": "Game companion for coding agents. 游戏陪玩插件。",
+  "plugins": [
+    {
+      "name": "game-companion",
+      "source": "./",
+      "description": "Turn your coding agent into a friend who plays single-player games with you. 让你的 agent 变成陪你玩游戏的朋友。"
+    }
+  ]
+}

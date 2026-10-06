@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+# runtime files the mod writes next to its scripts
+state.json
+events.jsonl
+reply.txt
+reply.tmp
+ask.txt
+mute
+autoload.txt
