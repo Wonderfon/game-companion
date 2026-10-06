@@ -32,7 +32,7 @@ codex plugin add game-companion@game-companion
 **WorkBuddy**（以及其他支持 `SKILL.md` 的 agent）
 把仓库里的 `skills/game-companion` 文件夹复制到 `~/.workbuddy/skills/`（Windows：`%USERPROFILE%\.workbuddy\skills\`）。
 
-还需要 Python 3，只用标准库，不用 pip 装任何东西。
+还需要 Python 3（只用标准库，不用 pip 装任何东西）和 git（Claude Code、Codex 靠它下载插件）。
 
 ### 开玩
 
@@ -90,7 +90,7 @@ codex plugin add game-companion@game-companion
 **WorkBuddy** (and other agents that read `SKILL.md`)
 Copy the `skills/game-companion` folder into `~/.workbuddy/skills/` (Windows: `%USERPROFILE%\.workbuddy\skills\`).
 
-You also need Python 3. Standard library only, nothing to pip install.
+You also need Python 3 (standard library only, nothing to pip install) and git (Claude Code and Codex use it to fetch the plugin).
 
 ### Play
 
